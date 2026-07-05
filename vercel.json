@@ -2,8 +2,12 @@
   "cleanUrls": true,
   "rewrites": [
     {
-      "source": "/",
-      "destination": "/gurav-dental-care.html"
+      "source": "/gurav-dental-care",
+      "destination": "/"
+    },
+    {
+      "source": "/gurav-dental-care.html",
+      "destination": "/"
     }
   ]
 }
